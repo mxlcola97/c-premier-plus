@@ -1,0 +1,10 @@
+#ifndef__MYTIME0_H__
+#difine_MYTIME0_H__
+#include<iostream>
+using namespace std;
+class Time
+{
+};
+
+
+#endif
